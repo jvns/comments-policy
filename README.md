@@ -1,10 +1,12 @@
 # comments-policy
 
-This blog has some unusual commenting guidelines. Please read them! The goal of this blog is to teach people about programming & systems in a positive & friendly way and the comments have the same goal.
+This blog has some unusual commenting guidelines. Please take a couple of minutes to read them! The goal of this blog is to teach people about programming & systems in a positive & friendly way and the comments have the same goal.
 
 I'm introducing a way to comment because I know there are a lot of knowledgeable and thoughtful people who read this blog and I'd like to hear more of what you have to say. I think of blogging as a **conversation**. One of my favorite-ever things was when I wrote [Why do we use the Linux kernel's TCP stack?](https://jvns.ca/blog/2016/06/30/why-do-we-use-the-linux-kernels-tcp-stack/) and Marek Majkowski from Cloudflare wrote [Why we use the Linux kernel's TCP stack](https://blog.cloudflare.com/why-we-use-the-linux-kernels-tcp-stack/) in response.
 
-Here are the kinds of contributions I'd like:
+I'm interested in discussions that are about learning new things (not arguing about who is "right" or "wrong"), so I decided to write down explicitly the kinds of comments I'd like to see.
+
+So! Here are the kinds of contributions I'd like:
 
 1. **new information** about the subject of the post. Some examples of this include:
   * "you mentioned you're struggling to learn iptables, <link> really helped me learn iptables"
