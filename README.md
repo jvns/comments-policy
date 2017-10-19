@@ -2,7 +2,7 @@
 
 This blog has some unusual commenting guidelines. Please read them! The goal of this blog is to teach people about programming & systems in a positive & friendly way and the comments have the same goal.
 
-I'm introducing a way to comment because I know there are a lot of knowledgeable and thoughtful people who read this blog and I'd like to hear more of what you have to say. I think of blogging as a **conversation**. One of my favorite-ever things was when I wrote [Why do we use the Linux kernel's TCP stack?](https://jvns.ca/blog/2016/06/30/why-do-we-use-the-linux-kernels-tcp-stack/) and Marek from Cloudflare wrote [Why we use the Linux kernel's TCP stack](https://blog.cloudflare.com/why-we-use-the-linux-kernels-tcp-stack/) in response.
+I'm introducing a way to comment because I know there are a lot of knowledgeable and thoughtful people who read this blog and I'd like to hear more of what you have to say. I think of blogging as a **conversation**. One of my favorite-ever things was when I wrote [Why do we use the Linux kernel's TCP stack?](https://jvns.ca/blog/2016/06/30/why-do-we-use-the-linux-kernels-tcp-stack/) and Marek Majkowski from Cloudflare wrote [Why we use the Linux kernel's TCP stack](https://blog.cloudflare.com/why-we-use-the-linux-kernels-tcp-stack/) in response.
 
 Here are the kinds of contributions I'd like:
 
