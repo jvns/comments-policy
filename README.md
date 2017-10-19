@@ -13,7 +13,7 @@ Here are the kinds of contributions I'd like:
 2. **experience reports**. I think there's a lack of good stories about how people are using technology. If I write about some technology and you have a great story about your experience using it ("I started using eBPF at work and it actually turned out to be a great choice because REASONS")
 3. **corrections**. I often say things that are wrong on this blog. I'm generally more interested in substantial corrections than minor nitpicks. Don't be mean about it, obviously.
 4. **awesome links**. Links to other interesting reading that others may not have read is always appreciated. 
-5. **long replies**. I'm especially interested in replies that took you at least 5 minutes to write (more than off-the-cuff pithy comments :))
+5. **long replies**. I'm especially interested in replies that took you at least 5 minutes to write (more than off-the-cuff pithy comments, that's what Twitter is for :))
 
 What's not appropriate:
 
